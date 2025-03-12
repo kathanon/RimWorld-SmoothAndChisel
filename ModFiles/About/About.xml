@@ -1,0 +1,22 @@
+<ModMetaData>
+	<name>Smooth and Chisel</name>
+	<author>kathanon</author>
+    <packageId>kathanon.SmoothAndChisel</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description></description>
+	<url>https://github.com/kathanon/RimWorld-SmoothAndChisel</url>
+
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId> 
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[substring(defName, 1, 8)="Smoothed" and uiIconPath="Things/Building/Linked/WallSmooth_MenuIcon"]</xpath>
+		<value>
+			<comps>
+				<li>
+					<compClass>SmoothAndChisel.ThingComp_ChiselWall</compClass>
+				</li>
+			</comps>
+		</value>
+	</Operation>
+	
+</Patch>
