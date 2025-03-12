@@ -5,7 +5,7 @@
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<description></description>
+	<description>Allows building walls that look like smoothed rock, and altering smoothed rock to look like regular stone walls.</description>
 	<url>https://github.com/kathanon/RimWorld-SmoothAndChisel</url>
 
 	<modDependencies>
